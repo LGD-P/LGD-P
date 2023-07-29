@@ -35,8 +35,4 @@ graph LR
 
 ----------
 
-<p align= center>
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LGD-P&theme=2077">
-  <img align=center  src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LGD-P&theme=2077" >
-</a>
-</p>
+
