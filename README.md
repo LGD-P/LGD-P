@@ -1,9 +1,3 @@
-
-
-![](profile-3d-contrib/profile-night-green.svg)
-
-
-
 <p align="center">
   <img src="routine.svg">
 </p>
@@ -23,6 +17,12 @@ graph LR
 
 
 ---------
+
+![](profile-3d-contrib/profile-night-green.svg)
+
+
+-----------
+
 
 <p align=center>
 <a href="https://streak-stats.demolab.com/?user=LGD-P&theme=radical">
