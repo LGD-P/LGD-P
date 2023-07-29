@@ -13,6 +13,13 @@
 </a>
 
 --- 
+<p align="center">
+  <img src="routine.svg">
+</p>
+
+
+
+
 ```mermaid
 graph LR
      A[1. Réveil] --> B[2. Café]
