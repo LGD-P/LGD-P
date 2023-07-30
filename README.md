@@ -2,6 +2,7 @@
   <img src="routine.svg">
 </p>
 
+<p align="center"> Mermaid Style</p>
 
 ```mermaid
 graph LR
@@ -14,7 +15,11 @@ graph LR
      E --> F[6. Dodo]
      F --> A
 ```
-
+<p align="center"> Gitgraph style</p>
+<p align="center">
+  <img src="gitgraph.png">
+</p>
+<p align="center"> *code available in code-mermaid-git-graph.txt or in [mermaid doc](https://mermaid.js.org/syntax/gitgraph.html)</p>
 
 ---------
 
