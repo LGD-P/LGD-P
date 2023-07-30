@@ -19,7 +19,10 @@ graph LR
 <p align="center">
   <img src="gitgraph.png">
 </p>
-<p align="center"> *code available in code-mermaid-git-graph.txt or in [mermaid doc](https://mermaid.js.org/syntax/gitgraph.html)</p>
+
+<p align="center">
+<a href="https://mermaid.js.org/syntax/gitgraph.html"/ > *code available in code-mermaid-git-graph.txt or in mermaid doc"</a>
+</p>
 
 ---------
 
