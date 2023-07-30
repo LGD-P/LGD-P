@@ -64,7 +64,7 @@ graph LR
 
 ----------
 
-<h2 align=center> Linux First but Openmind ...</h2>
+<h2 align=center> Linux First but Open-minded ...</h2>
 <p align=center>
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width =60/>
