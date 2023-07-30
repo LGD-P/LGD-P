@@ -39,7 +39,6 @@ graph LR
 <p align=center >
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60">
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60">
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60">
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60">    
 </p>
 
@@ -57,8 +56,8 @@ graph LR
 
 <h2 align=center> One to Many DB  </h2>
 <p align=center>
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60">
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"  width=100>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="85">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=90/>
 </p>
 
@@ -67,6 +66,7 @@ graph LR
 <h2 align=center> Linux First but Open-minded ...</h2>
 <p align=center>
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60">
+  <imd src= 'https://soshace.com/wp-content/uploads/2021/01/879-png-3.png' width=60/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width =60/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  width=60/>  
 </p>
