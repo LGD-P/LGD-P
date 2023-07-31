@@ -54,9 +54,6 @@ graph LR
   <a href="https://www.djangoproject.com/">
     <img src= 'https://soshace.com/wp-content/uploads/2021/01/879-png-3.png' width=135/>
   </a>
-  <a href="https://www.postman.com/">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width=60/>
-  </a>
   <a href="https://www.selenium.dev/">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60">    
   </a>
@@ -130,8 +127,11 @@ graph LR
    <a href="https://git-scm.com/">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60">
   </a>
+  <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width=60/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60">
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65">
   </a>
    <a href="https://obsidian.md/">
     <img src="https://seeklogo.com/images/O/obsidian-2023-logo-2FF21CF604-seeklogo.com.png" width=45>
