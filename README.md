@@ -58,6 +58,9 @@ graph LR
   <a href="https://www.selenium.dev/">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60">    
   </a>
+  <a href='https://python-poetry.org/'>
+      <img src="https://python-poetry.org/images/logo-origami.svg" width=50/>
+  </a>
 </p>
 
 ----------
@@ -116,6 +119,11 @@ graph LR
    <a href="https://support.apple.com/macos/">
     <img src="https://cdn1.iconfinder.com/data/icons/logos-brands-1/24/logo_brand_brands_logos_apple_ios-512.png" width=60> 
   </a>
+  <a href="https://www.raspberrypi.com/software/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width =60/>
+  </a>     
+          
+          
 </p>
 
 ----------
@@ -126,7 +134,7 @@ graph LR
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width =60/>
   </a>
    <a href="https://git-scm.com/">
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60">
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70">
   </a>
   <a href="https://www.postman.com/">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width=60/>
