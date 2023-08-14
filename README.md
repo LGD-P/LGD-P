@@ -145,6 +145,9 @@ graph LR
    <a href="https://obsidian.md/">
     <img src="https://seeklogo.com/images/O/obsidian-2023-logo-2FF21CF604-seeklogo.com.png" width=45>
   </a>
+  <a href="https://www.figma.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=50/>
+   </a>    
 </p>
 
 ----------
