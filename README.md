@@ -61,6 +61,10 @@ graph LR
   <a href='https://python-poetry.org/'>
       <img src="https://python-poetry.org/images/logo-origami.svg" width=50/>
   </a>
+  </a>
+  <a href='https://docs.pytest.org/en/7.4.x/'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
+  </a>
 </p>
 
 ----------
