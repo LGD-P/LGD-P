@@ -63,7 +63,7 @@ graph LR
   </a>
   </a>
   <a href='https://docs.pytest.org/en/7.4.x/'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width=68//>
   </a>
 </p>
 
