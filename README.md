@@ -55,6 +55,9 @@ graph LR
   <a href="https://www.djangoproject.com/">
     <img src= 'https://soshace.com/wp-content/uploads/2021/01/879-png-3.png' width=135/>
   </a>
+  <a href="https://www.sqlalchemy.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width=60/>
+  </a>
   <a href="https://www.selenium.dev/">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60">    
   </a>
@@ -134,12 +137,18 @@ graph LR
 
 <h2 align=center> Dev-Tools ...</h2>
   <p align=center>
+  <a href="https://www.jetbrains.com/pycharm/download/?section=windows">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-220px-PyCharm_Icon.svg.png" width=60/>
+  </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width =60/>
   </a>
    <a href="https://git-scm.com/">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70">
   </a>
+  <a href="https://www.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=60/>
+  </a> 
   <a href="https://www.postman.com/">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width=60/>
   </a>
@@ -151,9 +160,13 @@ graph LR
   </a>
   <a href="https://www.figma.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=50/>
-   </a>    
+  </a>      
 </p>
 
+            
+          
+           
+          
 ----------
 
 
