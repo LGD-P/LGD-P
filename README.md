@@ -1,34 +1,4 @@
 
-![](profile-3d-contrib/profile-night-green.svg)
-
-
------------
-
-<p align="center">
-  <img src="routine.svg">
-</p>
-
-<p align="center"> Mermaid Style</p>
-
-```mermaid
-graph LR
-     A[1. Réveil] --> B[2. Café]
-     B --> C[3. Code]
-     C --> B
-     C --> D[4. Boulot]
-     D --> B
-     D --> E[5. Code]
-     E --> F[6. Dodo]
-     F --> A
-```
-<p align="center"> Gitgraph style</p>
-<p align="center">
-  <img src="gitgraph.png">
-</p>
-
-<p align="center">
-<a href="https://mermaid.js.org/syntax/gitgraph.html"/ > *code available in code-mermaid-git-graph.txt or in mermaid doc"</a>
-</p>
 
 ---------
 
@@ -50,7 +20,7 @@ graph LR
   	<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60">
   </a>
   <a href="https://pypi.org/">
-    <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width=60>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" width="60" />   
   </a>
   <a href="https://www.djangoproject.com/">
     <img src= 'https://soshace.com/wp-content/uploads/2021/01/879-png-3.png' width=135/>
@@ -69,6 +39,14 @@ graph LR
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width=68//>
   </a>
 </p>
+---------
+
+<h2 align=center> Also : </h2>
+<p align=center>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width =60 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg"width=60 style="filter: invert(100%);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width=60 />
+</p >
 
 ----------
 
@@ -128,11 +106,10 @@ graph LR
   </a>
   <a href="https://www.raspberrypi.com/software/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width =60/>
-  </a>     
-          
-          
+  </a>          
 </p>
 
+          
 ----------
 
 <h2 align=center> Dev-Tools ...</h2>
@@ -140,6 +117,7 @@ graph LR
   <a href="https://www.jetbrains.com/pycharm/download/?section=windows">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-220px-PyCharm_Icon.svg.png" width=60/>
   </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width=60/>     
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width =60/>
   </a>
@@ -155,9 +133,7 @@ graph LR
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65">
   </a>
-   <a href="https://obsidian.md/">
-    <img src="https://seeklogo.com/images/O/obsidian-2023-logo-2FF21CF604-seeklogo.com.png" width=45>
-  </a>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width=60/>    
   <a href="https://www.figma.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=50/>
   </a>      
