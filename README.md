@@ -1,5 +1,7 @@
 ---------
-
+Hi ! <br>
+Passionate about Python and scripting, with a strong interest in cybersecurity and OSINT — but a day only has 24 hours... <br>
+I’m active in the TryHackMe community to enhance my skills. Currently, I develop intranet applications using PHP (Symfony) and JavaScript. <br> I'm an enthusiastic learner.
 
 <p align=center>
 <a href="https://streak-stats.demolab.com/?user=LGD-P&theme=radical">
