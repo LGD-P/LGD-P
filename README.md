@@ -23,7 +23,7 @@ I’m active in the TryHackMe community to enhance my skills. Currently, I devel
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" width="60" />   
   </a>
   <a href="https://www.djangoproject.com/">
-    <img src= 'https://soshace.com/wp-content/uploads/2021/01/879-png-3.png' width=135/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  width=60/>
   </a>
   <a href="https://www.sqlalchemy.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width=60/>
